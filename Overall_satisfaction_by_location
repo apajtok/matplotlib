@@ -1,0 +1,41 @@
+	Mean	Lower CI	Upper CI
+Household_type,Single pensioner (no children)	6.2	6	6.4
+Household_type,Married couple pensioner (no children)	6	5.9	6.2
+Household_type,Single person, not a pensioner (no children)	6	5.8	6.2
+Household_type,Two adult household with children	5.8	5.6	5.9
+Household_type,Two adult household (up to one pensioner) without children	5.6	5.4	5.7
+Household_type,Single parent household	5.9	5.6	6.2
+Household_type,Other households	6.1	5.9	6.4
+Have_use_of_a_car,No	5.8	5.7	5.8
+Have_use_of_a_car,Yes	6.4	6.2	6.6
+gender,Male	6	5.8	6.1
+gender,Female	5.8	5.7	5.9
+Local_authority,Isle of Anglesey	5.5	5.2	5.7
+Local_authority,Gwynedd	6	5.6	6.4
+Local_authority,Conwy	6.2	5.8	6.6
+Local_authority,Denbighshire	6.1	5.7	6.4
+Local_authority,Flintshire	6.5	6.2	6.8
+Local_authority,Wrexham	6.4	6.1	6.6
+Local_authority,Powys	5.5	5.1	5.8
+Local_authority,Ceredigion	5.2	4.9	5.6
+Local_authority,Pembrokeshire	5.5	5.1	5.9
+Local_authority,Carmarthenshire	5.3	5	5.7
+Local_authority,Swansea	5.8	5.5	6.2
+Local_authority,Neath Port Talbot	5.5	5.1	5.8
+Local_authority,Bridgend	5.5	5.1	5.9
+Local_authority,Vale of Glamorgan	5.4	5.1	5.7
+Local_authority,Cardiff	6.1	5.8	6.5
+Local_authority,Rhondda Cynon Taf	5.7	5.4	6
+Local_authority,Merthyr Tydfil	6.1	5.8	6.4
+Local_authority,Caerphilly	6.2	5.9	6.5
+Local_authority,Blaenau Gwent	6.2	5.9	6.5
+Local_authority,Torfaen	6.5	6.1	6.9
+Local_authority,Monmouthshire	5.9	5.7	6.2
+Local_authority,Newport	5.9	5.6	6.2
+Urban_rural area,Urban	6	5.8	5.8
+Urban_rural area,Rural	5.5	5.7	6.6
+Overall_satisfaction_with_state_of_transport_system_in_Wales_by_age,16-24	6.2	5.9	6.5
+Overall_satisfaction_with_state_of_transport_system_in_Wales_by_age,25-44	5.9	5.8	6
+Overall_satisfaction_with_state_of_transport_system_in_Wales_by_age,45-64	5.5	5.4	5.7
+Overall_satisfaction_with_state_of_transport_system_in_Wales_by_age,65-74	5.9	5.7	6.1
+Overall_satisfaction_with_state_of_transport_system_in_Wales_by_age,75 and over	6.5	6.3	6.7
